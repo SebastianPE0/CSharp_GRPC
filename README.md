@@ -24,7 +24,9 @@ This project is a console application that connects to the gRPC server and sends
 4. The GreeterService class implements the SayHello method, which returns a "Hello, World!" message when requested.
 5. Run the server by pressing Ctrl + F5 or using the Visual Studio toolbar to start the application.
 6. The server will start listening on http://localhost:5295 or https://localhost:7002 (depending on your configuration).
+   
    ---
+   
 ## Setting up the gRPC Client (GrpcClient)
 1. Open the solution in Visual Studio 2022.
 2. Navigate to the GrpcClient project.
